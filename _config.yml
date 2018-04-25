@@ -4,3 +4,5 @@ encoding:     "utf-8"
 baseurl: "http://juniper.github.io/warp17/" # does not include hostname
 
 include: ['_pages']
+
+theme: jekyll-theme-leap-day
